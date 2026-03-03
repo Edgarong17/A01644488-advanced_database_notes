@@ -1,0 +1,3 @@
+- It is necesary sometimes to make sub.querys in order to obtain a single data 
+- rows between can be used with 0 and with preceding and following it does not matter where so a range can be fron 0-2 or form 2-4 or -2 to -1
+- DENSE_RANK is a function in sql whioch gives a rabking according to a parameter according to a partition
