@@ -1,0 +1,4 @@
+- Union when you want unique items between 2 tables
+- union all when you want duplicates
+- intersect when you want the elements which repeat
+- minus when you want the elements which are only on the 1st table
