@@ -1,0 +1,1 @@
+Se transforma la informacion en vectores y se separan para encontrar la major similitud o lamenor distancia entre un punto buscado y un espacio de vectores.
