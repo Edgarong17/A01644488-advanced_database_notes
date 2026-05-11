@@ -1,0 +1,2 @@
+Antes de migrar una db es necesario checar las constrains y FK que tengan una tabla, ya que da error si se tiene una relacion y no existe la tabla
+Se deben de ordenar por priorización y se tiene que quitar el nombre del schema para no crearlas donde mismo, tambien se debe de definir el nombre del nuevo schema en el que se hospedarian.

@@ -1,0 +1,22 @@
+# Session – 2026-04-28
+
+## Topics covered
+- Schema Backups
+
+## What I understood
+- Schemas VS DB : Schema is a group of tables and a DB is the full set of tables
+- A schema is usually used to manage rules and access to certain. It is assosiated to one user 
+- A backup is usally done on a schema level
+- In a backup it needs to be consider the relationship between entities because of foreign keys
+
+## What is still confusing
+- 
+
+## Questions
+- 
+
+## Related concepts
+- [Concept name](../concepts/concept-name.md)
+
+## Resources used
+- See `resources/`
